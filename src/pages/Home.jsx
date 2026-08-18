@@ -3,7 +3,7 @@ import { hover, motion } from 'framer-motion'
 import React, { useEffect, useMemo } from "react";
 import { FaGithub, FaLinkedin, FaXTwitter } from 'react-icons/fa6';
 import avator from "../assets/avator.png"
-import resume from "../assets/Ardra_A_P.pdf"
+import resume from "../assets/Ardra__A_P.pdf"
 
 
 
