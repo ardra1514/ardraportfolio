@@ -131,7 +131,7 @@ bg-gradient-to-r from-[#54ACBF] via-[#26658C] to-[#023859] to-[#011C40]'
               transition={{ delay: 0.8, duration: 0.8 }}
             >
 
-              <a href="#project"
+              <a href="#projects"
                 className='px-6 py-3 rounded-full font-medium text-white
 bg-gradient-to-r from-[#54ACBF] via-[#26658C] to-[#023859] to-[#011C40]
 drop-shadow-lg hover:scale-105 transition-opacity'>

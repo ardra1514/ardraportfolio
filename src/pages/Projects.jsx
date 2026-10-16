@@ -10,27 +10,9 @@ import learnly from "../assets/learnly.png"
 
 const Projects = () => {
   const projects = [
-    {
-      title: "Live Chat",
-      description:
-        "A real-time chat application with a clean interface and seamless messaging experience.",
-      link: "https://chat-applications-front.onrender.com",
-      image: livechat,
-      mobileImage: livechatph,
-      number: "01",
-      technologies: ["React.js", "Node.js", "Socket.io", "MongoDB"],
-    },
+ 
 
-    {
-      title: "Sereno Care",
-      description:
-        "A doctor appointment platform that connects patients and doctors with an easy-to-use booking experience.",
-      link: "https://serenocare-front-end.onrender.com",
-      image: sereno1,
-      mobileImage: serenoph,
-      number: "02",
-      technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
-    },
+
 
     {
       title: "AI Learning Platform",
@@ -48,6 +30,26 @@ const Projects = () => {
         "JWT",
         "Gemini API",
       ],
+    },
+        {
+      title: "Sereno Care",
+      description:
+        "A doctor appointment platform that connects patients and doctors with an easy-to-use booking experience.",
+      link: "https://serenocare-front-end.onrender.com",
+      image: sereno1,
+      mobileImage: serenoph,
+      number: "02",
+      technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    },
+       {
+      title: "Live Chat",
+      description:
+        "A real-time chat application with a clean interface and seamless messaging experience.",
+      link: "https://chat-applications-front.onrender.com",
+      image: livechat,
+      mobileImage: livechatph,
+      number: "01",
+      technologies: ["React.js", "Node.js", "Socket.io", "MongoDB"],
     },
   ];
 
